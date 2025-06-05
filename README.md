@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=AI-Powered+Sensitive+Data+Redaction+Tool+%7C+Blockchain+%7C+NLP+%7C+Next.js+%7C+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=AI-Powered+Sensitive+Data+Redaction+Tool+%7C+Blockchain+%7C" />
 </p>
 
 ---
