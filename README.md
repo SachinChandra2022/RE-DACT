@@ -3,8 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:1e88e5&height=200&section=header&text=RE-DACT&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=AI-Powered+Sensitive+Data+Redaction+Tool+%7C+Blockchain+%7C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=850&height=80&lines=AI-Powered+Sensitive+Data+Redaction+Tool;Blockchain+%7C+Next.js+%7C+ML+%7C+DevOps" />
 </p>
 
 ---
